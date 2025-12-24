@@ -3,7 +3,8 @@
 </div>
 <div class="absolute left-1/2 -translate-x-1/2 bottom-12">
 	<p class="text-sm text-white">
-		made with {'🫶'} by <a href="https://oscar.falemara.com" class="text-[#635BFF]">oscar</a>
+		made with {'🫶'} by
+		<a href="https://oscar.falemara.com" class="text-[#635BFF]" target="_blank">oscar</a>
 	</p>
 </div>
 <img
