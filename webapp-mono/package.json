@@ -1,5 +1,5 @@
 {
-  "name": "webapp-mono",
+  "name": "@object-object-dev/webapp-mono",
   "private": true,
   "scripts": {
     "build": "turbo run build",
